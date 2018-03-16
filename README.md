@@ -1,10 +1,7 @@
 # CurrencyConverter
 
 
-
-
-
-Assignment 3 To apply broadcast receivers and perform currency conversion
+To apply broadcast receivers and perform currency conversion
 
 STEPS
 
